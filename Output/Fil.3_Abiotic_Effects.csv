@@ -1,0 +1,66 @@
+x,y,G_obs,p_value,Coef_b11
+Dem.trawlers,Merluccius_merluccius_juv,0.12,0.142,0.31
+MLD,Merluccius_merluccius_adu,0.1,0.14,-0.14
+MLD,Eledone_cirrhosa_juv,0.1,0.11,0.19
+SST,Eledone_cirrhosa_adu,0.1,0.13,-0.15
+WeMOI,Merluccius_merluccius_juv,0.09,0.161,0.22
+Phosphate con.,Lophius_budegassa_juv,0.09,0.14,0.27
+SST,Merluccius_merluccius_juv,0.08,0.187,-0.21
+WeMOI,Eutrigla_gurnardus_adu,0.08,0.184,0.15
+R.flow,Merluccius_merluccius_adu,0.08,0.19,0.13
+Dem.trawlers,Zeus_faber,0.08,0.247,0.21
+WeMOI,Trisopterus_capelanus_juv,0.07,0.222,0.18
+Dem.trawlers,Eutrigla_gurnardus_adu,0.07,0.296,0.15
+MLD,Engraulis_encrasicolus,0.07,0.207,-0.12
+Dem.trawlers,Trisopterus_capelanus_juv,0.06,0.322,0.16
+SST,Eutrigla_gurnardus_adu,0.06,0.244,-0.13
+R.flow,Lophius_budegassa_juv,0.06,0.208,0.21
+R.flow,Merluccius_merluccius_juv,0.05,0.288,0.17
+MLD,Eutrigla_gurnardus_adu,0.05,0.267,0.12
+WeMOI,Merluccius_merluccius_adu,0.05,0.292,0.1
+WeMOI,Zeus_faber,0.05,0.294,0.17
+Pel.trawlers,Engraulis_encrasicolus,0.05,0.342,-0.11
+Phosphate con.,Lophius_budegassa_adu,0.04,0.289,0.12
+SST,Engraulis_encrasicolus,0.04,0.344,0.1
+R.flow,Engraulis_encrasicolus,0.04,0.357,0.09
+Dem.trawlers,Eledone_cirrhosa_adu,0.04,0.43,0.07
+R.flow,Eutrigla_gurnardus_adu,0.03,0.364,0.1
+Phosphate con.,Zeus_faber,0.03,0.423,0.13
+Phosphate con.,Mullus_barbatus_adu,0.03,0.271,-0.1
+R.flow,Mullus_barbatus_adu,0.03,0.307,-0.09
+Nitrate con.,Eledone_cirrhosa_adu,0.03,0.395,0.08
+R.flow,Eledone_cirrhosa_adu,0.03,0.396,0.09
+MLD,Merluccius_merluccius_juv,0.02,0.497,0.1
+Nitrate con.,Eutrigla_gurnardus_adu,0.02,0.416,-0.09
+SST,Lophius_budegassa_adu,0.02,0.401,-0.08
+Nitrate con.,Lophius_budegassa_adu,0.02,0.388,0.08
+WeMOI,Sardina_pilchardus,0.02,0.512,-0.08
+WeMOI,Mullus_barbatus_adu,0.02,0.383,-0.08
+Phosphate con.,Eledone_cirrhosa_adu,0.02,0.489,0.08
+MLD,Lophius_budegassa_juv,0.02,0.397,-0.14
+Nitrate con.,Merluccius_merluccius_juv,0.01,0.689,0.06
+Nitrate con.,Trisopterus_capelanus_juv,0.01,0.674,-0.07
+Dem.trawlers,Merluccius_merluccius_adu,0.01,0.73,0.05
+SST,Eledone_cirrhosa_juv,0.01,0.467,-0.08
+Dem.trawlers,Eledone_cirrhosa_juv,0.01,0.753,0.04
+R.flow,Sardina_pilchardus,0.01,0.603,-0.06
+R.flow,Trisopterus_capelanus_juv,0,0.82,0.03
+MLD,Lophius_budegassa_adu,0,0.601,-0.05
+Dem.trawlers,Lophius_budegassa_adu,0,0.845,0.02
+SST,Merluccius_merluccius_adu,0,0.902,-0.01
+Nitrate con.,Merluccius_merluccius_adu,-0,0.992,-0
+Phosphate con.,Merluccius_merluccius_adu,0,0.931,0.01
+MLD,Zeus_faber,0,0.741,0.05
+Nitrate con.,Engraulis_encrasicolus,0,0.838,-0.02
+Phosphate con.,Engraulis_encrasicolus,0,0.784,-0.03
+Nitrate con.,Eledone_cirrhosa_juv,-0,0.649,-0.05
+R.flow,Eledone_cirrhosa_juv,0,0.541,0.07
+SST,Sardina_pilchardus,-0,0.909,0.01
+MLD,Sardina_pilchardus,-0,0.978,0
+Phosphate con.,Sardina_pilchardus,0,0.829,0.03
+Seiner,Sardina_pilchardus,0,0.607,-0.05
+MLD,Eledone_cirrhosa_adu,-0,0.862,0.02
+SST,Lophius_budegassa_juv,0,0.57,-0.1
+WeMOI,Eledone_cirrhosa_juv,-0.01,0.797,0.03
+Phosphate con.,Eledone_cirrhosa_juv,-0.01,0.831,-0.02
+WeMOI,Lophius_budegassa_juv,-0.01,0.914,0.02

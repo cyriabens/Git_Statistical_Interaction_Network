@@ -1,0 +1,7 @@
+x,y,G_obs,p_value,Coef_b11
+SST,Mullus_barbatus_adu,0.79,0,0.34
+Nitrate con.,Sardina_pilchardus,0.62,0,-0.34
+Dem.trawlers,Mullus_barbatus_adu,0.39,0.007,-0.46
+Nitrate con.,Lophius_budegassa_juv,0.37,0.003,-0.46
+Dem.trawlers,Lophius_budegassa_juv,0.3,0.024,-0.44
+Phosphate con.,Eutrigla_gurnardus_adu,0.28,0.011,0.3

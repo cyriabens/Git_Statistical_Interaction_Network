@@ -1,0 +1,14 @@
+x,y,G_obs,p_value,Coef_b11
+SST,Trisopterus_capelanus_juv,0.26,0.015,-0.33
+Phosphate con.,Merluccius_merluccius_juv,0.21,0.029,0.32
+Nitrate con.,Zeus_faber,0.21,0.028,0.33
+MLD,Trisopterus_capelanus_juv,0.2,0.035,0.29
+SST,Zeus_faber,0.18,0.044,-0.3
+WeMOI,Eledone_cirrhosa_adu,0.18,0.049,0.2
+R.flow,Zeus_faber,0.17,0.057,0.3
+Nitrate con.,Mullus_barbatus_adu,0.16,0.038,-0.19
+WeMOI,Engraulis_encrasicolus,0.14,0.087,0.17
+Phosphate con.,Trisopterus_capelanus_juv,0.13,0.087,0.24
+WeMOI,Lophius_budegassa_adu,0.12,0.093,0.18
+R.flow,Lophius_budegassa_adu,0.12,0.091,0.18
+MLD,Mullus_barbatus_adu,0.1,0.084,-0.15
