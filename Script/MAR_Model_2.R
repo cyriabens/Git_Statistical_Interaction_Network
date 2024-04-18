@@ -65,7 +65,7 @@ data.var<-data.frame(row.names = rownames(tab_all),
 data.cov<-data.frame(row.names=rownames(Env.param), 
                      c1= Env.param$`Nitrate con.`,
                      c2= Env.param$SST,
-                     c3= Env.param$Pel.trawlers
+                     c3= Env.param$Dem.trawlers
                      )
 str.y<-2001
 f.y<-2021
